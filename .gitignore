@@ -33,3 +33,6 @@ node_modules/
 # Generated logs
 gateway/pii_logs.txt
 gateway/incidents.json
+
+# OWASP Juice Shop
+gateway/juice-shop/
