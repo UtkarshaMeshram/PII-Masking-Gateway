@@ -1,0 +1,7 @@
+fastapi==0.139.0
+httpx==0.28.1
+pydantic==2.13.4
+Requests==2.34.2
+pandas==3.0.2
+numpy==2.4.4
+streamlit==1.56.0
